@@ -1,0 +1,61 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/n6lzg8wWwHHQ-h8meESZr/pages/_app.js": 2,
+      "static/n6lzg8wWwHHQ-h8meESZr/pages/_error.js": 3,
+      "static/n6lzg8wWwHHQ-h8meESZr/pages/about.js": 4,
+      "static/n6lzg8wWwHHQ-h8meESZr/pages/index.js": 5,
+      "static/n6lzg8wWwHHQ-h8meESZr/pages/p/[id].js": 6,
+      "static/n6lzg8wWwHHQ-h8meESZr/pages/post.js": 7,
+      "static/runtime/main.js": 8,
+      "static/njfffMQFTq_h6_NhpFEtJ/pages/_app.js": 9,
+      "static/njfffMQFTq_h6_NhpFEtJ/pages/_error.js": 10,
+      "static/njfffMQFTq_h6_NhpFEtJ/pages/about.js": 11,
+      "static/njfffMQFTq_h6_NhpFEtJ/pages/index.js": 12,
+      "static/njfffMQFTq_h6_NhpFEtJ/pages/p/[id].js": 13,
+      "static/njfffMQFTq_h6_NhpFEtJ/pages/post.js": 14,
+      "static/NPbjFCn-oC9USenmNfq28/pages/_app.js": 2,
+      "static/NPbjFCn-oC9USenmNfq28/pages/_error.js": 3,
+      "static/NPbjFCn-oC9USenmNfq28/pages/about.js": 4,
+      "static/NPbjFCn-oC9USenmNfq28/pages/index.js": 5,
+      "static/NPbjFCn-oC9USenmNfq28/pages/p/[id].js": 6,
+      "static/NPbjFCn-oC9USenmNfq28/pages/post.js": 7,
+      "static/ToTAU2aY1tyF2k2LfhDpZ/pages/_app.js": 9,
+      "static/ToTAU2aY1tyF2k2LfhDpZ/pages/_error.js": 10,
+      "static/ToTAU2aY1tyF2k2LfhDpZ/pages/about.js": 11,
+      "static/ToTAU2aY1tyF2k2LfhDpZ/pages/index.js": 12,
+      "static/ToTAU2aY1tyF2k2LfhDpZ/pages/p/[id].js": 13,
+      "static/ToTAU2aY1tyF2k2LfhDpZ/pages/post.js": 14,
+      "static/lkj7S7N1i4Kl23hnJSr5h/pages/_app.js": 2,
+      "static/lkj7S7N1i4Kl23hnJSr5h/pages/_error.js": 3,
+      "static/lkj7S7N1i4Kl23hnJSr5h/pages/about.js": 4,
+      "static/lkj7S7N1i4Kl23hnJSr5h/pages/index.js": 5,
+      "static/lkj7S7N1i4Kl23hnJSr5h/pages/p/[id].js": 6,
+      "static/lkj7S7N1i4Kl23hnJSr5h/pages/post.js": 7,
+      "static/bf_vjXDwlg8NnM1qvfgMR/pages/_app.js": 9,
+      "static/bf_vjXDwlg8NnM1qvfgMR/pages/_error.js": 10,
+      "static/bf_vjXDwlg8NnM1qvfgMR/pages/about.js": 11,
+      "static/bf_vjXDwlg8NnM1qvfgMR/pages/index.js": 12,
+      "static/bf_vjXDwlg8NnM1qvfgMR/pages/post.js": 13,
+      "static/bf_vjXDwlg8NnM1qvfgMR/pages/show/[id].js": 14
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      8,
+      9
+    ]
+  }
+}
